@@ -1,9 +1,9 @@
-# nn6 -- Neural Network 6
+# ai6 -- Artificial Intelligence Code Examples
 
 ## Install
 
 ```
-$ pip install nn6
+$ pip install ai6
 ```
 
 ## Example
@@ -16,5 +16,5 @@ def f(p):
 	return x*x + y*y
 
 p = [1.0, 3.0]
-ai6.gd(f, p)
+ai6.gradient_descendent(f, p)
 ```

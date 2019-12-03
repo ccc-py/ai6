@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ai6", # Replace with your own username
-    version="1.1.0",
+    version="1.2.1",
     author="ccckmit",
     author_email="ccckmit@gmail.com",
     description="ai6 -- Artificial Intelligence Example Code",

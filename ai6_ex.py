@@ -5,4 +5,4 @@ def f(p):
 	return x*x + y*y
 
 p = [1.0, 3.0]
-ai6.gd(f, p)
+ai6.gradient_descendent(f, p)
